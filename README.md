@@ -5,9 +5,12 @@
 
 
 
-# **`Loan Eligibility Prediction`** 
+# **`Sentiment Analysis`** 
 
-This machine learning demo application predicts loan eligibility based on factors like income, credit history, employment type, marital status, gender, dependents, co-applicant income, loan amount, and residential area. The model uses classification algorithm such- Random Forest to make predictions. A user-friendly interface allows applicants to input their details for instant predictions, while model performance is evaluated using accuracy, precision, recall, and F1-score. This project demonstrates the application of data-driven decision-making in the financial sector.
+This sentiment analysis application utilizes Natural Language Processing (NLP) to determine the sentiment of a given text, classifying it as positive, negative, or neutral. The model is built using a machine learning algorithm. Users can input text and receive both full-sentence sentiment predictions and word-wise sentiment analysis. This project highlights the application of NLP for text classification and sentiment analysis, offering a comprehensive understanding of text sentiment at multiple levels.
+
+
+
 
 #
 
