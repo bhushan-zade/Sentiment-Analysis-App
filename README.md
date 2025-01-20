@@ -12,6 +12,11 @@
 <img src="https://img.shields.io/badge/dataset-Kaggle-red">
 <img src="https://img.shields.io/badge/-Sentiment%20Analysis%20Dataset-orange">
 
+<img src="https://img.shields.io/badge/build%20with-python-yellow">
+<img src="https://img.shields.io/badge/-machine%20learning-brightgreen">
+<img src="https://img.shields.io/badge/-natural%20language%20processing-blue">
+<img src="https://img.shields.io/badge/deployed%20in-Streamlit%20Cloud-blue">
+<img src="https://img.shields.io/badge/domain-NLP%20&%20Text%20Analysis-orange">
 
 
 
