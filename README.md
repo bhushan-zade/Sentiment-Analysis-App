@@ -15,14 +15,12 @@ This sentiment analysis application utilizes Natural Language Processing (NLP) t
 #
 
 
-<img align="" alt="coding" width="900" src= "https://github.com/bhushan-zade/Loan_Eligibility_Prediction/blob/main/Loan%20Eligibility%20Prediction%20App.png">
+<img align="" alt="coding" width="900" src= "https://github.com/bhushan-zade/sentiment-analysis-app/blob/master/Sentiment%20Analysis.png">
 
 # **`Visit For Details:`**
 
-**`Dataset:`** https://www.kaggle.com/datasets/vikasukani/loan-eligible-dataset
 
-**`Visit The Web App:`** https://loan-eligibility-prediction-4ghq.streamlit.app/
-
+**`Visit The Web App:`** https://sentiment-analysis-app-bhushan-zade.streamlit.app/
 
 
     
